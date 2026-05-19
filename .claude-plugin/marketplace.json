@@ -1,0 +1,16 @@
+{
+  "name": "skillpilot-workshop",
+  "description": "Claude Code Plugins fuer SkillPilot Workshops.",
+  "owner": {
+    "name": "SkillPilot",
+    "url": "https://skillpilot.ch"
+  },
+  "plugins": [
+    {
+      "name": "lay-foundation",
+      "source": "./plugins/lay-foundation",
+      "description": "Foundation-Onboarding (Schicht 1) fuer neue Claude-User: fuehrt ein kurzes Interview und legt ~/.claude/CLAUDE.md plus zwei kopierbare Bloecke fuer die Claude Desktop UI an.",
+      "version": "0.1.0"
+    }
+  ]
+}

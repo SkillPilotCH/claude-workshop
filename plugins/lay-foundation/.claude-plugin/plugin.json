@@ -1,0 +1,9 @@
+{
+  "name": "lay-foundation",
+  "description": "Foundation-Onboarding fuer neue Claude-User. Fuehrt ein Interview, schreibt ~/.claude/CLAUDE.md und gibt zwei kopierbare Textbloecke fuer Claude Desktop (Allgemein + Cowork) aus.",
+  "version": "0.1.0",
+  "author": {
+    "name": "SkillPilot",
+    "url": "https://skillpilot.ch"
+  }
+}
