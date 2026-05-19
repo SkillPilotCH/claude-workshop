@@ -32,4 +32,4 @@ Das didaktische Modell hinter dem Foundation-Layer (vier Schichten in zwei Werkz
 
 ## Lizenz
 
-Noch nicht entschieden — bis dahin: all rights reserved. Wer ein konkretes Bedürfnis hat (Forken, intern weiterverteilen), bitte direkt bei SkillPilot melden.
+[MIT](LICENSE) — Forken, anpassen, intern weiterverteilen ist ausdrücklich erwünscht. Wer auf diesem Material aufsetzt, freut sich SkillPilot über einen kurzen Hinweis (kein Muss).
