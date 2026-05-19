@@ -30,6 +30,12 @@ Voraussetzung: muss in Claude Code ausgeführt werden (der Disk-Write nach `~/.c
 
 Das didaktische Modell hinter dem Foundation-Layer (vier Schichten in zwei Werkzeug-Welten) erklärt das SkillPilot-Workshop-Material unter [skillpilot.ch](https://skillpilot.ch). Kurzfassung: Claude lädt Kontext aus mehreren `CLAUDE.md`-Files übereinander; in welcher Welt (Cowork / Claude Code) das passiert, hängt davon ab, womit der User arbeitet. Dieses Plugin legt die unterste Schicht (User-Profil) für beide Welten gleichzeitig.
 
+## Maintainer
+
+**SkillPilot** ([skillpilot.ch](https://skillpilot.ch)) — Claude-Cowork-Enabling-Workshops, Foundation- und Builder-Linie. Betrieben von **CleverAI GmbH** ([cleverai.ch](https://cleverai.ch)), Winkel ZH.
+
+Kontakt: [stephan@cleverai.ch](mailto:stephan@cleverai.ch)
+
 ## Lizenz
 
-[MIT](LICENSE) — Forken, anpassen, intern weiterverteilen ist ausdrücklich erwünscht. Wer auf diesem Material aufsetzt, freut sich SkillPilot über einen kurzen Hinweis (kein Muss).
+[MIT](LICENSE) — Forken, anpassen, intern weiterverteilen ist ausdrücklich erwünscht. Wer auf diesem Material aufsetzt, freut sich SkillPilot über einen kurzen Hinweis (kein Muss) an die Adresse oben.
